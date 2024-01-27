@@ -17,14 +17,14 @@ git clone repo_link
 ```
 npm install
 ```
-<li>To install the used tech stack(incase error occurs)</li>
+<h2>To install the used tech stack(incase error occurs)</h2>
 <p>Tailwind CSS</p>
 
 ```
 npm install tailwindcss postcss autoprefixer
 npx tailwindcss init -p
-This will create two files: tailwind.config.js and postcss.config.js.
 ```
+<p>This will create two files: tailwind.config.js and postcss.config.js.</p>
 <p>Material UI</p>
 
 ```
