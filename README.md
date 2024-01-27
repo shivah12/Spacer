@@ -17,7 +17,7 @@ git clone repo_link
 ```
 npm install
 ```
-<h2>To install the used tech stack(incase error occurs)</h2>
+<h2>To install the used tech stack</h2>
 <p>Tailwind CSS</p>
 
 ```
@@ -34,5 +34,11 @@ npm install @mui/icons-material
 
 ```
 npm create vite@latest
+```
+
+<p>To run the local server</p>
+
+```
+npm run dev
 ```
 </ul>
