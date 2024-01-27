@@ -1,0 +1,31 @@
+
+
+.earth-container {
+    width: 30%;
+    height: auto;
+    position: absolute;
+    top: 5%;
+    left: -20%; /* Center the Earth horizontally */
+    transform: translateX(-50%); /* Center the Earth horizontally */
+    border: 1px solid wheat;
+    border-radius: 50%;
+    animation: spin 10s linear infinite; /* Spin animation */
+    font-family: 'Courier New', Courier, monospace;
+  }
+  
+  @keyframes spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+  
+  .earth-image {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%; 
+  }
+  
+  
