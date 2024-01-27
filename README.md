@@ -6,5 +6,33 @@
 </ul>
 <h2>To use it:</h2>
 <ul>
-  <li></li>
+  <li>Clone the repository:</li>
+
+  ```
+git clone repo_link
+```
+
+<li>To install Node modules:</li>
+
+```
+npm install
+```
+<li>To install the used tech stack(incase error occurs)</li>
+<p>Tailwind CSS</p>
+
+```
+npm install tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+This will create two files: tailwind.config.js and postcss.config.js.
+```
+<p>Material UI</p>
+
+```
+npm install @mui/icons-material
+```
+<p>To initialise a vite project</p>
+
+```
+npm create vite@latest
+```
 </ul>
