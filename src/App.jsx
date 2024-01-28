@@ -3,7 +3,7 @@ import Navbar from "./components/Navbar/Navbar";
 import Hero from "./components/Hero/Hero.jsx";
 import HeroCard from "./components/HeroCard/HeroCard.jsx";
 import BgVideo from "./assets/earth-bg.mp4";
-import Rapidscat from "./components/Organisation/Organisation.jsx";
+import Organisation from "./components/Organisation/Organisation.jsx";
 import Satelite from "./components/Satelite/Satelite.jsx";
 import Footer5 from "./components/Footer/Footer5.jsx";
 import AOS from "aos";
@@ -32,7 +32,7 @@ const App = () => {
         <Hero />
       </div>
       <HeroCard />
-      <Rapidscat />
+      <Organisation />
       <Satelite />
       {/* <Footer /> */}
       <Footer5 />
