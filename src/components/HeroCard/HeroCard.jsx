@@ -31,7 +31,7 @@ const HeroCard = () => {
     <>
       <section className="bg-black" id="services">
         <div className="container">
-          <div className="min-h-[300px]">
+          <div className="min-h-[400px]">
             <div>
               <div className="grid grid-cols-1 sm:grid-cols-3 gap-7 relative z-10">
                 {ServiceData.map((data, index) => {
