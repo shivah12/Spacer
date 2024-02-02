@@ -3,7 +3,7 @@ import React from "react";
 
 const Footer = () => {
   return (
-    <div className="bg-black">
+    <div className="bg-primary">
       <section className="max-w-[1400px] mx-auto text-white">
         <div className="grid md:grid-cols-3 py-5">
           {/* first column */}
