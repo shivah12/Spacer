@@ -5,10 +5,10 @@ import satelitImg5 from "../../assets/satelite5.jpg";
 const Satellite = () => {
   return (
     <>
-      <section className="bg-primary text-white py-20" id="satellite">
+      <section className="bg-gradient-to-r from-black to-blue-400 to-black-500 text-white py-20 rounded-2xl border" id="satellite">
         <div className="container ">
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 items-center">
-            <div className="space-y-3 xl:pr-36 p-4 border-l-2 border-b-2 border-l-sky-800 border-b-sky-800 ">
+            <div className="space-y-3 xl:pr-36 p-4 border-l-2 border-b-2 border-l-white-800 border-b-white-800 rounded-2xl ">
               <p
                 data-aos="fade-up"
                 data-aos-delay="300"
@@ -47,10 +47,10 @@ const Satellite = () => {
           </div>
         </div>
       </section>
-      <section className="bg-primary text-white py-20" id="satellite">
+      <section className="bg-gradient-to-r from-black to-blue-400 to-black-500 text-white py-20 rounded-2xl border" id="satellite">
         <div className="container ">
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 items-center">
-            <div className="space-y-3 xl:pr-36 p-4 border-l-2 border-b-2 border-l-sky-800 border-b-sky-800 ">
+            <div className="space-y-3 xl:pr-36 p-4 border-l-2 border-b-2 border-l-white-800 border-b-white-800 rounded-2xl ">
               <p
                 data-aos="fade-up"
                 data-aos-delay="300"
