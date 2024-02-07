@@ -15,7 +15,7 @@ git clone repo_link
 <li>To install Node modules:</li>
 
 ```
-npm install
+npm i install
 ```
 <h2>To install the used tech stack</h2>
 <p>Tailwind CSS</p>
