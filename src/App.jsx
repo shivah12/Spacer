@@ -12,7 +12,7 @@ import "aos/dist/aos.css";
 const App = () => {
   React.useEffect(() => {
     AOS.init({
-      duration: 1200,
+      duration: 1300,
       easing: "ease-in-out",
     });
   });
